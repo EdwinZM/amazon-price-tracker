@@ -7,5 +7,7 @@ product is equal to or lower than a price set by the user
 
 # Modules
 -requests
+
 -bs4 BeautifulSoup
+
 -datetime
