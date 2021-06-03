@@ -10,3 +10,4 @@ product is equal to or lower than a price set by the user
 
 -bs4 BeautifulSoup
 
+-smptlib
